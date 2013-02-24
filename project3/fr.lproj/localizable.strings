@@ -1,0 +1,42 @@
+/* 
+  File.strings
+  project3
+
+  Created by Jesse Chen on 4/28/12.
+  Copyright (c) 2012 __MyCompanyName__. All rights reserved.
+*/
+
+// SplashScreenViewController
+"START_GAME" = "Jouer!";
+"NUM_PLAYERS" = "Joueurs?";
+"MODE" = "Convivial pour la Famille?";
+"INSTRUCTIONS" = "Comment Jouer";
+"WEBSITE" = "Visitez le Site Web";
+"AMAZON" = "Acheter une copie sur Amazon!";
+
+// SetUpViewController
+"USERQUESTION" = "Quel est le nom du Joueur %d?";
+"DONE" = "Fini!";
+
+// BlackCardViewController
+"NEWCARDCZAR" = "Tsar de Cartes!";
+"CZARINSTRUCTIONS" = "Passer le téléphone portable à %@, demandez-leur de lire à haute voix.";
+"CANCELBUTTON" = "D'Accord!";
+"DONELABEL" = "Fini";
+
+// WhiteCardViewController
+"BACKLABEL" = "Reviens";
+"PICKLABEL" = "Choisis";
+
+// HandViewController
+"CHOOSINGTIME" = "Le Temps de Choisir!";
+"PASSTOCZAR" = "Passer à Tsar de Cartes (%@), alors il/elle peut choisir la plus mieux carte.";
+"NEXTUSER" = "Prochain Utilisateur!";
+"NEXTTURN" = "C'est la tour de %@; passe-leur le téléphone portable.";
+
+// ScoreViewController
+"DONEPLAYING" = "Fini!";
+"CONTINUEPLAYING" = "Une Autre Série!";
+
+// InstructionViewController
+"INSTRUCTIONSTEXT" = "Pour commencer le jeu, chaque joueur tire dix cartes blanches. Un joueur choisi au hasard qui commence comme le tsar de cartes et joue un Black Card. Le tsar carte lit la question ou remplissez-le-blanc phrase sur la Black Card à haute voix. Tout le monde répond à la question ou remplit le vide en passant une carte blanche, face vers le bas, au tsar de la carte. Le tsar carte brasse toutes les réponses et les actions de chaque combinaison de cartes avec le groupe. Pour plein effet, le tsar carte devrait normalement relire la Black Card avant de présenter chaque réponse. Le tsar carte prend alors un favori, et celui qui a joué cette réponse maintient la Black Card comme un point impressionnant. Après le tour, un nouveau joueur devient le tsar carte, et tout le monde recule jusqu'à dix cartes blanches.";
